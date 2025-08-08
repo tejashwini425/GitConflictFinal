@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 <msg>This is NEW update from master</msg>
+=======
+<msg>This is from GitWork</msg>
+>>>>>>> GitWork
+<msg>This is the final merged message</msg>
